@@ -1,11 +1,11 @@
-# Duinotech Resistor and Capacitor Tester
+# Resistor and Capacitor Tester
 
 Here's another easy to build project similar to the LED tester, and using the same hardware. This project will try to work out whether it's connected to a resistor or capacitor and then show you the value (resistance or capacitance) of it. If it's a resistor, it'll also suggest the nearest resistor from the Jaycar range of ½W resistors. Of course, using off the shelf components, it's not a high accuracy device, but handy to have if you're sorting through your junk drawer and are having trouble with the colour codes. There's about ten solder joins that need to be made to complete this project.
 If you've already built the LED tester, you can add the components onto the same proto shield, as the circuits use different pins on the Uno (but the same pins for the LCD).
 
 ![](images/rct1.jpg)
 
-## Components
+## Bill of Materials
 
 | Qty | Code                                    | Description            |
 | --- | --------------------------------------- | ---------------------- |
